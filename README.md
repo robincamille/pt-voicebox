@@ -1,5 +1,19 @@
 # pt-voicebox
 predictive text writing engine for multiple custom sources. designed to imitate the predictive text function on smartphones
+(original @ https://github.com/jbrew/pt-voicebox)
+
+# to run this
+
+- download or fork this repo
+- open command line and get to the directory
+- type **python main.py**
+- choose which article file to emulate
+- choose "0" ("to use an equal mixture") when prompted
+- go wild
+
+--Robin
+
+* * * 
 
 
 # processing the source
