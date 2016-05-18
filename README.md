@@ -8,6 +8,7 @@ predictive text writing engine for multiple custom sources. designed to imitate 
 - open command line and get to the directory
 - type **python main.py**
 - choose which article file to emulate
+- choose "n" to not choose another voice
 - choose "0" ("to use an equal mixture") when prompted
 - go wild
 
